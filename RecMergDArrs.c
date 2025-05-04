@@ -101,7 +101,7 @@ void Ordenar(int* Arr, int tamArr, int n){ //OJO: n como argumento SIEMPRE debe 
         Ordenar(Arr, tamArr, n * 2); //Llamada recursiva
     }
     
-} //1  65  444  4452  9  82  3 
+}
 
 int main() {
     
